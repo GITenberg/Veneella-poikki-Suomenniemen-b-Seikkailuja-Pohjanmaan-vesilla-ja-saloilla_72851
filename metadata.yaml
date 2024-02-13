@@ -1,0 +1,25 @@
+_repo: Veneella-poikki-Suomenniemen-b-Seikkailuja-Pohjanmaan-vesilla-ja-saloilla_72851
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Korhonen, Arvo E.
+    gutenberg_agent_id: '56833'
+    url: http://www.gutenberg.org/2009/agents/56833
+description: ''
+gutenberg_issued: '2024-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72851'
+language: fi
+pgterms:marc905: 20240129010445korhonen
+pgterms:marc906: '1895'
+pgterms:marc907: FI
+production_note: Jari Koivisto
+publication_note: '  $aHelsinki :$bOtava, $c1895.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Veneellä poikki Suomenniemen : $b Seikkailuja Pohjanmaan vesillä ja saloilla'
+url: http://www.gutenberg.org/ebooks/72851
